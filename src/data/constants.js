@@ -184,6 +184,7 @@ export const projects = [
     github: "https://github.com/Shubham-Kumar1/SmartImage",
     webapp: "https://smartscan.netlify.app/",
   },
+  
   // {
   //   id: 2,
   //   title: "Brain Tumor Detection",
@@ -311,3 +312,4 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
